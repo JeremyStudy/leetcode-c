@@ -3,4 +3,4 @@ project(LeetCode_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(LeetCode_C main.c leetcode_1.c)
+add_executable(LeetCode_C leetcode_1.c)
